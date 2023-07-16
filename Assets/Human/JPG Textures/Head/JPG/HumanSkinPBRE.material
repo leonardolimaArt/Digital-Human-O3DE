@@ -1,0 +1,56 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.color": [
+            0.5028916001319885,
+            0.5028916001319885,
+            0.5028916001319885,
+            1.0
+        ],
+        "baseColor.textureMap": "Colour_8k.jpg",
+        "clearCoat.enable": true,
+        "clearCoat.influenceMap": "Gloss_8k.jpg",
+        "clearCoat.normalMap": "Normal Map_SubDivision_1.jpg",
+        "clearCoat.roughness": 0.6830000281333923,
+        "clearCoat.useRoughnessMap": false,
+        "detailLayerGroup.blendDetailMask": "Micro Normal.jpg",
+        "detailLayerGroup.detailUV.scale": 130.0,
+        "detailLayerGroup.enableDetailLayer": true,
+        "detailLayerGroup.enableNormals": true,
+        "detailLayerGroup.normalDetailFlipX": true,
+        "detailLayerGroup.normalDetailFlipY": true,
+        "detailLayerGroup.normalDetailMap": "Micro Normal.jpg",
+        "detailLayerGroup.normalDetailStrength": 0.6610000133514404,
+        "irradiance.irradianceColorSource": "BaseColor",
+        "metallic.factor": 0.009999999776482582,
+        "normal.flipX": true,
+        "normal.textureMap": "Normal Map_SubDivision_1.jpg",
+        "occlusion.diffuseFactor": 0.17800000309944153,
+        "occlusion.diffuseTextureMap": "Cavity_8k.jpg",
+        "occlusion.specularFactor": 0.6650000214576721,
+        "occlusion.specularTextureMap": "Cavity_8k.jpg",
+        "parallax.quality": "Ultra",
+        "roughness.factor": 0.0,
+        "roughness.lowerBound": 1.0,
+        "roughness.textureMap": "Gloss_8k.jpg",
+        "roughness.upperBound": 0.0,
+        "specularF0.factor": 0.09799999743700027,
+        "specularF0.textureMap": "Spec_8k.jpg",
+        "subsurfaceScattering.enableSubsurfaceScattering": true,
+        "subsurfaceScattering.scatterColor": [
+            0.964690625667572,
+            0.09083695709705353,
+            0.09083695709705353,
+            1.0
+        ],
+        "subsurfaceScattering.scatterDistance": 2.0,
+        "subsurfaceScattering.transmissionScale": 0.15000000596046448,
+        "subsurfaceScattering.transmissionTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    }
+}

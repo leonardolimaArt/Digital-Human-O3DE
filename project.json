@@ -1,0 +1,47 @@
+{
+    "project_name": "NewProject",
+    "version": "1.0.0",
+    "project_id": "{DE6BD9A3-4B86-4BB8-B11A-859BC133F12E}",
+    "origin": "The primary repo for NewProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license NewProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "DigitalHuman",
+    "summary": "A short description of NewProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "NewProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "NewProject",
+    "gem_names": [
+        "NewProject",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "Compression",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ],
+    "engine_version": "23.05.0"
+}

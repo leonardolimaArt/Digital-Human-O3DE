@@ -1,0 +1,21 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.4735332131385803,
+            0.4620737135410309,
+            0.4620737135410309,
+            1.0
+        ],
+        "baseColor.textureMap": "Jacket_Colour.jpg",
+        "normal.flipX": true,
+        "normal.flipY": true,
+        "normal.textureMap": "Jacket_Normal.jpg",
+        "roughness.lowerBound": 1.0,
+        "roughness.textureMap": "Jacket_Gloss.jpg",
+        "roughness.upperBound": 0.0,
+        "specularF0.factor": 0.16300000250339508,
+        "specularF0.textureMap": "Jacket_Spec.jpg"
+    }
+}

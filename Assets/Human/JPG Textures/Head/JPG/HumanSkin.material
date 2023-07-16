@@ -1,0 +1,52 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/Skin.materialtype",
+    "materialTypeVersion": 4,
+    "propertyValues": {
+        "baseColor.color": [
+            0.5028916001319885,
+            0.5028916001319885,
+            0.5028916001319885,
+            1.0
+        ],
+        "baseColor.textureMap": "Colour_8k.jpg",
+        "baseColor.textureMapUv": "Tiled",
+        "detailLayerGroup.baseColorDetailMap": "Colour_8k.jpg",
+        "detailLayerGroup.blendDetailMask": "Micro Normal.jpg",
+        "detailLayerGroup.blendDetailMaskUv": "Tiled",
+        "detailLayerGroup.detailUV.scale": 130.0,
+        "detailLayerGroup.enableDetailLayer": true,
+        "detailLayerGroup.enableNormals": true,
+        "detailLayerGroup.normalDetailMap": "Micro Normal.jpg",
+        "detailLayerGroup.normalDetailStrength": 0.6610000133514404,
+        "detailLayerGroup.textureMapUv": "Tiled",
+        "general.applySpecularAA": true,
+        "normal.textureMap": "Normal Map_SubDivision_1.jpg",
+        "normal.textureMapUv": "Tiled",
+        "occlusion.specularFactor": 0.6600000262260437,
+        "occlusion.specularTextureMap": "Cavity_8k.jpg",
+        "roughness.textureMap": "Gloss_8k.jpg",
+        "roughness.textureMapUv": "Tiled",
+        "roughness.upperBound": 0.6380000114440918,
+        "specularF0.factor": 0.10000000149011612,
+        "specularF0.textureMap": "Spec_8k.jpg",
+        "specularF0.textureMapUv": "Tiled",
+        "subsurfaceScattering.enableSubsurfaceScattering": true,
+        "subsurfaceScattering.quality": 0.4320000112056732,
+        "subsurfaceScattering.scatterColor": [
+            0.964690625667572,
+            0.09083695709705353,
+            0.09083695709705353,
+            1.0
+        ],
+        "subsurfaceScattering.scatterDistance": 2.0,
+        "subsurfaceScattering.thickness": 0.18799999356269836,
+        "subsurfaceScattering.transmissionScale": 0.550000011920929,
+        "subsurfaceScattering.transmissionTint": [
+            0.964690625667572,
+            0.09083695709705353,
+            0.09083695709705353,
+            1.0
+        ],
+        "subsurfaceScattering.useThicknessMap": false
+    }
+}

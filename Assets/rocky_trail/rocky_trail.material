@@ -1,0 +1,16 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.textureMap": "rocky_trail_02_diff_4k.jpg",
+        "normal.flipX": true,
+        "normal.textureMap": "rocky_trail_02_nor_gl_4k.exr",
+        "parallax.offset": 0.0430000014603138,
+        "parallax.pdo": true,
+        "parallax.quality": "Ultra",
+        "parallax.textureMap": "rocky_trail_02_disp_4k.png",
+        "roughness.lowerBound": 1.0,
+        "roughness.textureMap": "rocky_trail_02_rough_2.png",
+        "roughness.upperBound": 0.0
+    }
+}

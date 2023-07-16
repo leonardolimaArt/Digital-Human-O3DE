@@ -1,0 +1,28 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.color": [
+            0.4735332131385803,
+            0.4620737135410309,
+            0.4620737135410309,
+            1.0
+        ],
+        "baseColor.textureMap": "Jacket_Colour.jpg",
+        "normal.flipX": true,
+        "normal.flipY": true,
+        "normal.textureMap": "Jacket_Normal.jpg",
+        "roughness.lowerBound": 0.37599998712539673,
+        "roughness.textureMap": "Jacket_Gloss.jpg",
+        "roughness.upperBound": 0.0,
+        "specularF0.factor": 0.16300000250339508,
+        "specularF0.textureMap": "Jacket_Spec.jpg",
+        "subsurfaceScattering.enableSubsurfaceScattering": true,
+        "subsurfaceScattering.scatterColor": [
+            1.0,
+            0.5520103573799133,
+            0.45078203082084656,
+            1.0
+        ]
+    }
+}

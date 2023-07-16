@@ -1,0 +1,19 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.textureMap": "xdfedbe_4K_Albedo.jpg",
+        "metallic.textureMap": "xdfedbe_4K_Gloss.jpg",
+        "normal.textureMap": "xdfedbe_4K_Normal.jpg",
+        "occlusion.diffuseTextureMap": "xdfedbe_4K_AO.jpg",
+        "parallax.factor": 0.03999999910593033,
+        "parallax.offset": 0.019999999552965164,
+        "parallax.pdo": true,
+        "parallax.quality": "Ultra",
+        "parallax.textureMap": "xdfedbe_4K_Displacement.exr",
+        "roughness.textureMap": "xdfedbe_4K_Roughness.jpg",
+        "specularF0.textureMap": "xdfedbe_4K_Gloss.jpg",
+        "uv.tileU": 2.0,
+        "uv.tileV": 2.0
+    }
+}

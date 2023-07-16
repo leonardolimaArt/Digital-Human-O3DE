@@ -1,0 +1,8 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/Skin.materialtype",
+    "materialTypeVersion": 4,
+    "propertyValues": {
+        "subsurfaceScattering.enableSubsurfaceScattering": true,
+        "subsurfaceScattering.scatterDistance": 2.0
+    }
+}
