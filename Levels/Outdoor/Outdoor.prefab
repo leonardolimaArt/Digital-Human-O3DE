@@ -268,9 +268,8 @@
                                     "Value": {
                                         "MaterialAsset": {
                                             "assetId": {
-                                                "guid": "{C99D3776-099A-5481-9F37-39CCC5A1F925}"
-                                            },
-                                            "assetHint": "objects/shaderball/shaderball_default_1m_shaderball_01.azmaterial"
+                                                "guid": "{9CB2A30B-6347-52A6-B065-66938EFF4A97}"
+                                            }
                                         }
                                     }
                                 }
@@ -503,7 +502,7 @@
                                     "AlterSurround": true,
                                     "ApplyDesaturation": true,
                                     "ApplyCATD60toD65": true,
-                                    "PresetODT": "48Nits",
+                                    "PresetODT": 48,
                                     "CinemaLimitsBlack": 0.019999999552965164,
                                     "CinemaLimitsWhite": 48.0,
                                     "MinPoint": 0.0028798957355320454,
