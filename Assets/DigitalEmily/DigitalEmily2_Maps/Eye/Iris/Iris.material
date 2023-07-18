@@ -1,0 +1,14 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.textureMap": "Eye_Inner_Iris_Color_01.png",
+        "normal.textureMap": "Eye_Inner_Iris_Bump_01.jpg",
+        "opacity.alphaAffectsSpecular": 1.0,
+        "opacity.alphaSource": "Split",
+        "opacity.factor": 1.0,
+        "opacity.textureMap": "../OuterColor/Eye_Outer_Blend_Ramp_Inverse.exr",
+        "roughness.factor": 0.0,
+        "specularF0.factor": 0.0
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.color": [
+            0.005020218435674906,
+            0.005020218435674906,
+            0.005020218435674906,
+            1.0
+        ],
+        "roughness.factor": 0.4399999976158142,
+        "specularF0.factor": 0.44999998807907104
+    }
+}

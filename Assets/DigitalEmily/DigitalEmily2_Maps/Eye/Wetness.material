@@ -1,0 +1,11 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "metallic.factor": 0.009999999776482582,
+        "opacity.mode": "Blended",
+        "roughness.factor": 0.0,
+        "specularF0.factor": 1.0,
+        "subsurfaceScattering.scatterDistance": 9.600000381469727
+    }
+}

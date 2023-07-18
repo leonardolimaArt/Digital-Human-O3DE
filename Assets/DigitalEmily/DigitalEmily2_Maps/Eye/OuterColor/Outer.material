@@ -1,0 +1,14 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/EnhancedPBR.materialtype",
+    "materialTypeVersion": 6,
+    "propertyValues": {
+        "baseColor.textureMap": "Eye_Outter_Color_01.png",
+        "normal.textureMap": "Eye_Outter_Normal_01.png",
+        "opacity.alphaAffectsSpecular": 0.03999999910593033,
+        "opacity.alphaSource": "Split",
+        "opacity.factor": 1.0,
+        "opacity.mode": "Blended",
+        "opacity.textureMap": "Eye_Outer_Blend_Ramp.exr",
+        "roughness.factor": 0.0
+    }
+}
