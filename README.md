@@ -7,10 +7,15 @@ Click on the image to see a video on youtube:
 * Texture map fix
 * Texture map values setting fix
 * Correction of material values
+  
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/finalExemple1.jpg)](https://youtu.be/D_EvCN_qFPo)
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/finalExemple0.jpg)](https://youtu.be/D_EvCN_qFPo)
 
 ## Update 2 - Digital Emily
+
+* Added Digital Emily Model
+** Credits: vgl.ict.usc.edu/Data/DigitalEmily2
+
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/digitalemily8.png)](https://youtu.be/9TtHuUQdaMc)
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/digitalemily7.jpg)](https://youtu.be/9TtHuUQdaMc)
 
