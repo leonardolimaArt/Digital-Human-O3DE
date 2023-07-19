@@ -14,7 +14,7 @@ Click on the image to see a video on youtube:
 ## Update 2 - Digital Emily
 
 * Added Digital Emily Model
-** Credits: vgl.ict.usc.edu/Data/DigitalEmily2
+- Credits: vgl.ict.usc.edu/Data/DigitalEmily2
 
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/digitalemily8.png)](https://youtu.be/9TtHuUQdaMc)
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/digitalemily7.jpg)](https://youtu.be/9TtHuUQdaMc)
