@@ -4,6 +4,9 @@ Click on the image to see a video on youtube:
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/cover.jpg)](https://youtu.be/D_EvCN_qFPo)
 
 ## Final Update - Textures and Materials
+* Texture map fix
+* Texture map values setting fix
+* Correction of material values
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/finalExemple1.jpg)](https://youtu.be/D_EvCN_qFPo)
 [![Youtube video](https://github.com/leonardolimaArt/Digital-Human/blob/main/Readme_Photos/finalExemple0.jpg)](https://youtu.be/D_EvCN_qFPo)
 
